@@ -1,0 +1,28 @@
+name: Blarg
+favicon: null
+layout_spectrum: 0.20004986156709492
+typography_spectrum: 0.45559603394940495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8995401815045625
+  lightness: 0.35077978344634175
+  saturation: 0.853533674729988
+  rhythmicContrast: 0.6676374787930399
+purpose: []
